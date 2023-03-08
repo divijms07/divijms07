@@ -17,9 +17,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
 
+### :man_technologist: About Me :
 
 - 🌱 I’m currently learning at Don Bosco Institute Of Technology
 - 💻 I am an IT student
 - 📚 I am interested in C/Java/Python
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
