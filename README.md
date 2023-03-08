@@ -47,6 +47,5 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=divijms07
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ivijms07 & theme=dark&background=000000)](https://git.io/streak-stats)
+
 
