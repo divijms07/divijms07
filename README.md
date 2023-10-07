@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning at Don Bosco Institute Of Technology,Mumbai 
 - 💻 I am an IT student
-- 📚 I am interested in C/Java/Python/JavaScript
+- 📚 I am interested in C++/Java/Python/JavaScript/HTML/CSS
 
 ---
 
