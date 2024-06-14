@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning Python and Data Science.
 - 📫 How to reach me divijsarkale@gmail.com
 - 👾Portfolio Website : https://divijsarkale.netlify.app/
+- 🔛 Leetcode Profile : https://leetcode.com/u/divijms/
 
 <!---
 divijms07/divijms07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
