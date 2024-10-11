@@ -1,12 +1,7 @@
+<h1 align = "center">Hi there! 👋 I am Divij Sarkale </h1>
 
-
-
-
-
-
-- 👋 Hi, I’m Divij Sarkale
 - 👀 I’m interested in MERN,Flutter and SQL.
-- 🌱 I’m currently learning Python and Data Science.
+- 🌱 A CyberSec Enthusaist.
 - 📫 How to reach me divijsarkale@gmail.com
 - 👾Portfolio Website : https://divijsarkale.netlify.app/
 - 🔛 Leetcode Profile : https://leetcode.com/u/divijms/
