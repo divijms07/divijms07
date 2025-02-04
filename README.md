@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ## 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=divijms07&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Divij's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tushar4303&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" height="192px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Divij's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=divijms07&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" height="192px"/></a>
 
 Thank you for visiting my GitHub profile!
 
