@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go , AWS , Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [divijsarkale.netlify.app](divijsarkale.netlify.app)
+- 👨‍💻 All of my projects are available at [divijsarkale.netlify.app](https://divijsarkale.netlify.app)
 
 - 📫 How to reach me **divijsarkale@gmail.com**
 
