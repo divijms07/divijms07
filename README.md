@@ -27,10 +27,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,redis,aws,gcp" />
   </a>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,django,nodejs,express,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=docker,flutter,django,nodejs,express,mysql,mongodb" />
   </a>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,tailwind,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,tailwind,bootstrap,sass,dart" />
   </a>
 </p>
 
