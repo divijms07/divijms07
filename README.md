@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=ubuntu,vscode,tailwind,bootstrap,sass,dart" />
   </a>
 </p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divijms07&show_icons=true&locale=en&layout=compact" alt="divijms07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divijms07&show_icons=true&locale=en" alt="divijms07" /></p>
