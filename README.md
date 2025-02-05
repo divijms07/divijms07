@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,go,js,ts,git,github" />
   </a>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,redux,redis,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,redis,aws,gcp" />
   </a>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,django,nodejs,express,mysql,mongodb" />
