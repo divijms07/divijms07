@@ -17,12 +17,6 @@
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divijms07&label=Profile%20views&color=0e75b6&style=flat" alt="divijms07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divijms07" alt="divijms07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/divijsarkale" target="blank"><img src="https://img.shields.io/twitter/follow/divijsarkale?logo=twitter&style=for-the-badge" alt="divijsarkale" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
