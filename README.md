@@ -1,6 +1,6 @@
 # Hey there👋, Welcome Aboard!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Divij;Full+stack+web+developer...;Cybersecurity+Enthusiast...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+its+Divij;Full+Stack+Web+Developer...;CyberSecurity+Enthusiast...;Active+Open+Source+Contributor..."/>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
@@ -26,14 +26,6 @@
 
 <p align="left"> <a href="https://twitter.com/divijsarkale" target="blank"><img src="https://img.shields.io/twitter/follow/divijsarkale?logo=twitter&style=for-the-badge" alt="divijsarkale" /></a> </p>
 
-- 🔭 I’m currently working on **Python, MERN, NextJS**
-- 🌱 I’m currently learning **Go , AWS , Unreal Engine**
-- 💻 Cybersecurity Enthusiast
-
-- 👨‍💻 All of my projects are available at [divijsarkale.netlify.app](https://divijsarkale.netlify.app)
-
-- 📫 How to reach me **divijsarkale@gmail.com**
-  
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
