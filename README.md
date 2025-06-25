@@ -8,7 +8,7 @@
 
 </br>
 
-- 🔭 I’m currently working on **Python, MERN, NextJS**
+- 🔭 I’m currently working on **MERN, NextJS**
 - 🌱 I’m currently learning **Go , AWS , Unreal Engine**
 - 💻 Cybersecurity Enthusiast
 - 👨‍💻 All of my projects are available at [divijsarkale.netlify.app](https://divijsarkale.netlify.app)
