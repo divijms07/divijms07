@@ -42,9 +42,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divijms07&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="divijms07" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=divijms07&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-# <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divijms07&show_icons=true&locale=en&layout=compact" alt="divijms07" /></p>
-
-# <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divijms07&show_icons=true&locale=en" alt="divijms07" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
